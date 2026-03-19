@@ -1,0 +1,5 @@
+{
+  "name": "WeatherAI",
+  "description": "A modern weather forecast application showing temperature trends, weather conditions, and precipitation probability with location and date selection.",
+  "requestFramePermissions": []
+}
